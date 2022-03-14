@@ -4,4 +4,4 @@
 - You can add more images of your choice to the "images" folder and they will automatically appear on the GUI as options for selection.
 
 # How to install dependencies?
-Type "pip install requirements.txt" in the terminal to install the required modules for this project
+Type "pip install -r requirements.txt" in the terminal to install the required modules for this project
